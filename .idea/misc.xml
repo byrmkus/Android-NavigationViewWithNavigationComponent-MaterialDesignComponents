@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/Bayram/Projects/NavigationComponentKullanimi/app/src/main/res/drawable/ic_menu.xml" value="0.207" />
+        <entry key="..\:/Projects/Bayram/Projects/NavigationComponentKullanimi/app/src/main/res/layout/activity_main.xml" value="0.19739583333333333" />
+        <entry key="..\:/Projects/Bayram/Projects/NavigationComponentKullanimi/app/src/main/res/layout/fragment_anasayfa.xml" value="0.35052083333333334" />
+        <entry key="..\:/Projects/Bayram/Projects/NavigationComponentKullanimi/app/src/main/res/layout/fragment_notification.xml" value="0.24010416666666667" />
+        <entry key="..\:/Projects/Bayram/Projects/NavigationComponentKullanimi/app/src/main/res/layout/fragment_profil.xml" value="0.24010416666666667" />
+        <entry key="..\:/Projects/Bayram/Projects/NavigationComponentKullanimi/app/src/main/res/layout/fragment_setting.xml" value="0.24010416666666667" />
+        <entry key="..\:/Projects/Bayram/Projects/NavigationComponentKullanimi/app/src/main/res/menu/drawer_menu.xml" value="0.24010416666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="app/src/main/res/layout/fragment_anasayfa.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/fragment_oyun_ekrani.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/fragment_sonuc_ekrani.xml" value="0.20208333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
